@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Masruf Ali | Portfolio
 
 Professional portfolio website showcasing my skills as a Cloud Engineer, projects, and certifications.
@@ -72,3 +73,7 @@ npm run dev
 
 ---
 Built with ❤️ by Masruf Ali
+=======
+# portfolio
+I am a passionate Cloud Engineering student focused on building real-world projects using AWS services. I enjoy creating practical cloud solutions such as full-stack applications, deployment architectures, and cloud-based tools. My goal is to become a professional Cloud Engineer and later specialize in Cloud Security.
+>>>>>>> d85290e1a934dbc242c1b67d1add7c9ab726062c
